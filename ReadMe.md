@@ -1,0 +1,1 @@
+This is the script I used to analyse lesional vitiligo patient sample data from a paper by Shiu.et.al., 2022 (https://doi.org/10.1172/jci.insight.154585) to identify melanocyte associated changes in lesional vitiligo skin. 
